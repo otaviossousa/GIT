@@ -49,6 +49,22 @@ Os nomes de arquivos/diretórios ou extensões de arquivos listados no arquivo *
 
 ## Repositório Local
 
+### Criar diretório/pasta vazio
+
+ 	mkdir nome_do_diretorio
+
+### Remover arquivos e diretórios
+
+
+	rm nome_do_arquivo
+
+ 	rm -r nome_do_diretorio
+  
+
+### Criar arquivo vazio (Linux/MacOS/Windows) 
+
+ 	echo. > nome_do_arquivo 
+
 ### Criar novo repositório
 
 	git init
